@@ -1,2 +1,3 @@
 # huzaifa-demo
-this is my 1st representive 
+This is my 1st representive 
+Muhammad Huzaifa 
